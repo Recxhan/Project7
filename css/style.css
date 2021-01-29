@@ -277,7 +277,7 @@ nav a img{
     background-color: #fbfbfb;
 }
 
-svg path{
+.social-image svg{
     fill: white;
 }
 
@@ -296,7 +296,6 @@ svg path{
 .social-image {
     width: 60px;
     height: 60px;
-    fill:white;
     background: slateblue;
     border-radius: 50%;
     margin: 10px;

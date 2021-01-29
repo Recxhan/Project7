@@ -270,7 +270,7 @@ send.addEventListener('click', () => {
     } else if (messgae.value === ''){
         alert('Please fill out message field before sending')
     } else {
-        alert('Message succesfully sent to: ${user.value}')
+        alert(`Message succesfully sent to: ${user.value}`)
     }
 });
 
